@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto tem como proposta exeplificar um site de e-commerce, utilizando técnicas HTML, CSS, JavaScript e técnicas de resposividade.
+Este projeto tem como proposta exemplificar um site de e-commerce, utilizando técnicas HTML, CSS, JavaScript e técnicas de resposividade.
 
 ## 🚀 Tecnologias
 
