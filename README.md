@@ -1,2 +1,2 @@
 # blue-store
-Projeto ecommerce utilizando técnicas HTML, CSS e JavaScript.
+Projeto e-commerce utilizando técnicas HTML, CSS e JavaScript.
